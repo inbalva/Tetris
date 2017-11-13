@@ -1,9 +1,3 @@
-/***************************************
-Credit for finding this code goes to:
-Yoav  Aharoni
-[yoav_ah@netvision.net.il]
-***************************************/
-
 #include <iostream>
 using namespace std;
 
